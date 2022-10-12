@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonkeyNews/static/css/main.abd64e84.css",
+    "main.js": "/MonkeyNews/static/js/main.dcea362e.js",
+    "static/js/787.4c026eef.chunk.js": "/MonkeyNews/static/js/787.4c026eef.chunk.js",
+    "index.html": "/MonkeyNews/index.html",
+    "main.abd64e84.css.map": "/MonkeyNews/static/css/main.abd64e84.css.map",
+    "main.dcea362e.js.map": "/MonkeyNews/static/js/main.dcea362e.js.map",
+    "787.4c026eef.chunk.js.map": "/MonkeyNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.dcea362e.js"
+  ]
+}
